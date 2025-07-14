@@ -1,34 +1,32 @@
-<img src="/readme.files/icon-512.png" alt="icon" title="imagine" width="60" height="60" align="left" />
+![](/readme.files/imagine-banner.png)
 
-# Imagine
+# <img src="/readme.files/icon-512.png" alt="icon" title="imagine" width="40" height="40" align="left" /> Imagine - Make it smaller
 
-Android image compressor
+Imagne let you reduce your image sizes. Just in two simple step; Choose image and compress it...</br>
+You can download a signed apk from [**latest release**](https://github.com/alibardide5124/Imagine/releases/latest)
 
-You can reduce your image sizes with this app. Just in two simple step; Choose image and compress it...</br>
-Download app from [**here**](https://github.com/alibardide5124/Imagine/releases/download/1.2.0/app-release.apk)
-</br></br>
+## Features
+- Compress Images
+- Minimal UI
 
-Image Quality
------
-I dont say anything about images quality. Just compare it yourself (open image in new tab to zoom on it): 
+## Image Quality
+It does a pretty good job compressing image, with little to none data loss 
 | Original Image (3.38 Mb)                                                                                                           | Compressed Image (1.00 mb)
 -------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="/readme.files/IMG_20211010_060732.jpg" alt="Original image" title="Original image (3.38 mb)" width="300" /> | <img src="/readme.files/imagine.IMG_20211010_060732.jpg" alt="Original image" title="Original image (3.38 mb)" width="300" /> |
-</br>
 
-I Hope you enjoy it :)
-</br></br>
+## Tech Stack
+- **Android**, obviously
+- **Kotlin** for android programming
 
+## Achknowledgments
+Thanks [zetbaitsu](https://github.com/zetbaitsu) for [Compressor][github.com/zetbaitsu/Compressor] library
 
-Support
------
-
-If you find this library useful, just support it by joining [**stargazers**](https://https://github.com/alibardide5124/CardViewPlus/stargazers) for this repository
+## Support
+If you find this application useful, just support it by joining [**stargazers**](https://github.com/alibardide5124/CardViewPlus/stargazers) for this repository
 <br/>
-And [**follow me**](https://https://https://github.com/alibardide5124?tab=followers) for my next creations
+And [**follow me**](https://github.com/alibardide5124?tab=followers) for my next creations
 
-License
------
-
+## License
 Imagine by [Ali Bardide](https://github.com/alibardide5124) is licensed under a [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
