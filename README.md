@@ -26,7 +26,7 @@ It does a pretty good job compressing image, with little to none data loss
 - Run project using Shift + F10
 
 ## Achknowledgments
-Thanks [zetbaitsu](https://github.com/zetbaitsu) for [Compressor](github.com/zetbaitsu/Compressor) library
+Thanks [zetbaitsu](https://github.com/zetbaitsu) for [Compressor](https://github.com/zetbaitsu/Compressor) library
 
 ## Support
 If you find this application useful, just support it by joining [**stargazers**](https://github.com/alibardide-dev/CardViewPlus/stargazers) for this repository
